@@ -1,0 +1,64 @@
+#Talning
+#K2016 A7B týnt úr fyrir skiptingu: Nokkrar tómar Macoma calcarea og kúfskeljar. Ótalið: skeljar.
+
+# Ophelina acuminata (http://species-identification.org/species.php?species_group=macrobenthos_polychaeta&id=746&menuentry=soorten)
+5
+
+# Scalibregma inflatum
+3
+
+# Polydora
+1
+
+# ? ranaormur x 2, heteromastus filiformis, C. capitata x 3
+7
+
+#K2016 A7B 1/4 úr sýni:
+
+# Ophelina acuminata
+6
+
+# Scoloplos armiger
+3
+
+# Capitella capitata
+1
+
+# Scalibregma inflatum
+6
+
+# Polydora sp.
+4
+
+# Nemertea
+1
+
+# Cossura longocirrata
+4
+
+# Corophium bonnellii
+1
+
+# Amphipoda sp
+1
+
+# Polydora antennata
+1
+
+# Hydrozoa
+2
+
+# heteromastus filiformis
+9
+
+# Microphthalmus aberrans
+1
+
+# Aricidea suecica
+1
+
+# Spionida sp.
+1
+
+# Götungar
+25
